@@ -68,7 +68,7 @@ function App() {
   const handleYesClick = () => {
     setShowVideo(true);
     setGifIndex(5);
-    setText('Biết rồi mà😘');
+    setText('Biết rồi hihi😘');
     setIsYesClicked(true);
     setYesButtonStyle({ height: '90%', width: '96%' });
     setNoButtonVisible(false);
